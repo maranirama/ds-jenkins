@@ -1,0 +1,264 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>27/2/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Apr 10 13:26:12 EDT 2023</td>
+</tr>
+<tr><td>Total time:</td><td>85 seconds (85590 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicks on Applications", "Stack module"</td>
+<td><div><pre>java.lang.AssertionError: expected [Application] but found [Applications]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.qa.util.ElementUtil.EqualAssert(ElementUtil.java:19)
+	at stepDefinition.Stack_Step.user_launches_on_applications_in_stack_page(Stack_Step.java:93)
+	at ✽.User launches on Applications in stack page(file:///C:/Users/saisn/MyNewWorkSpace/DsAlgo_Final/src/test/resources/FeatureFiles/6_Stack.feature:79)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1289218451", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1289218451'><pre>java.lang.AssertionError: expected [Application] but found [Applications]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.qa.util.ElementUtil.EqualAssert(ElementUtil.java:19)
+	at stepDefinition.Stack_Step.user_launches_on_applications_in_stack_page(Stack_Step.java:93)
+	at ✽.User launches on Applications in stack page(file:///C:/Users/saisn/MyNewWorkSpace/DsAlgo_Final/src/test/resources/FeatureFiles/6_Stack.feature:79)
+</pre></div></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Register for new user", "Register page"</td>
+<td><div><pre>org.junit.ComparisonFailure: expected:&lt;[Registration]&gt; but was:&lt;[NumpyNinja]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at stepDefinition.Register_Step.user_navigated_to_numpy_ninja_home_page(Register_Step.java:77)
+	at ✽.user navigated to NumpyNinja Home page(file:///C:/Users/saisn/MyNewWorkSpace/DsAlgo_Final/src/test/resources/FeatureFiles/1_Lnch_Reg.feature:51)
+</pre></div><a href='#' onClick='toggleBox("stack-trace627419088", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace627419088'><pre>org.junit.ComparisonFailure: expected:&lt;[Registration]&gt; but was:&lt;[NumpyNinja]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at stepDefinition.Register_Step.user_navigated_to_numpy_ninja_home_page(Register_Step.java:77)
+	at ✽.user navigated to NumpyNinja Home page(file:///C:/Users/saisn/MyNewWorkSpace/DsAlgo_Final/src/test/resources/FeatureFiles/1_Lnch_Reg.feature:51)
+</pre></div></td>
+<td>6</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is trying to click on TryEditor for Invalid data", "Stack module"</td>
+<td></td>
+<td>2</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Registeration for new user with invalid data", "Register page"</td>
+<td></td>
+<td>4</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is trying to click on TryEditor for Invalid data", "Stack module"</td>
+<td></td>
+<td>2</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User Clicks TryHere", "Stack module"</td>
+<td></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User navigates to operations in stack", "Stack module"</td>
+<td></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is trying to access TimeComplexity", "DataStructure module"</td>
+<td></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicks on Implementation", "Stack module"</td>
+<td></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Registeration for new user with invalid data", "Register page"</td>
+<td></td>
+<td>4</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User navigates to Graph module", "Graph Module"</td>
+<td></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User Clicks TryHere", "Graph Module"</td>
+<td></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User Clicks TryHere", "Graph Module"</td>
+<td></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is trying to click TryHere button", "DataStructure module"</td>
+<td></td>
+<td>2</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is trying to click on TryEditor for Invalid data", "Stack module"</td>
+<td></td>
+<td>2</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicks on Graphs representation", "Graph Module"</td>
+<td></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Registeration for new user with invalid data", "Register page"</td>
+<td></td>
+<td>4</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is trying to click on TryEditor for Invalid data", "DataStructure module"</td>
+<td></td>
+<td>2</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is trying to click on TryEditor for Invalid data", "Graph Module"</td>
+<td></td>
+<td>2</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is trying to click Practice Questions", "Graph Module"</td>
+<td></td>
+<td>6</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is trying to click Practice Questions", "Stack module"</td>
+<td></td>
+<td>6</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User navigates to DataStructure module", "DataStructure module"</td>
+<td></td>
+<td>2</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is trying to click Practice Questions", "DataStructure module"</td>
+<td></td>
+<td>6</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is trying to click on TryEditor for Invalid data", "Graph Module"</td>
+<td></td>
+<td>2</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User Clicks TryHere", "Stack module"</td>
+<td></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user is redirected to sign in page", "SignIn Page"</td>
+<td></td>
+<td>5</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User Clicks TryHere", "Stack module"</td>
+<td></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "user try to click GetStart button without signingIn", "Register page"</td>
+<td></td>
+<td>13</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+<tr>
+<td title='runner1.DsAlgoRunner.runScenario()'><b>runScenario</b><br>Test class: runner1.DsAlgoRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User navigates to Stack module", "Stack module"</td>
+<td></td>
+<td>0</td>
+<td>runner1.DsAlgoRunner@3098cf3b</td></tr>
+</table><p>
+</body>
+</html>
