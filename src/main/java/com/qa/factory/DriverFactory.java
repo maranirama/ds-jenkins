@@ -19,7 +19,7 @@ public class DriverFactory {
 	public static Properties prop = new Properties();
 	public static FileReader fr;
 
-	public static String path = "C:\\projects\\DsAlgo_FrameWork-20230331T193548Z-001\\DsAlgo_FrameWork\\src\\test\\resources\\Config_Files\\config1.properties";
+	public static String path = "src/test/resources/Config_Files/config1.properties";
 
 	public DriverFactory() {
 
