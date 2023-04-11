@@ -90,7 +90,7 @@ public class Stack_Step {
 	public void user_launches_on_applications_in_stack_page() {
 		 String title= eu.TitleGet();
 			System.out.println("User is on Applications Page"+title);
-			eu.EqualAssert(title,"Application") ;
+			eu.EqualAssert(title,"Applications") ;
 	}
 
 	
