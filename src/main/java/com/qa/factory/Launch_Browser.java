@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import com.qa.util.ConfigReader;
-import com.qa.util.Constants;
+
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 

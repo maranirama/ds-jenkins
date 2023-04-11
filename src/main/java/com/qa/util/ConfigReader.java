@@ -13,7 +13,7 @@ public class ConfigReader
 	public static String browser_key;
 	public static Properties prop=new Properties();
 	public static FileReader fr;
-	public static String config_path="C:\\Users\\saisn\\MyNewWorkSpace\\DsAlgo_Final\\src\\test\\resources\\Config_Files\\config1.properties";
+	public static String config_path="src/test/resources/Config_Files/config1.properties";
 	
 	public static String init_Reader()
 	{
