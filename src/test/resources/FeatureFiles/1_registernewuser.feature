@@ -51,7 +51,7 @@ Scenario Outline: Register data
     When user enters the valid "<UserName>" "<Password>" and "<ConfirmPassword>"
     And user clicks on Register button
     Then user navigated to NumpyNinja Home page
-
+And user will signout from Register page
     Examples: 
       | UserName           | Password    | ConfirmPassword |
-      | srs372@yopmail.com | numpyninja1 | numpyninja1     |
+      | srs397@yopmail.com | numpyninja1 | numpyninja1     |

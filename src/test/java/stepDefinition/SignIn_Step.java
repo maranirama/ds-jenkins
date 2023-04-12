@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import com.pages.SignIn_Page;
 import com.qa.factory.Launch_Browser;
 import com.qa.util.ConfigReader;
+import com.qa.util.ElementUtil;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -14,6 +15,7 @@ public class SignIn_Step {
 	
 		WebDriver driver  =Launch_Browser.launch_browser();
 		SignIn_Page si=new SignIn_Page(Launch_Browser.driver);
+		ElementUtil eu = new ElementUtil();
 		
 		@Given("user clicks on signIn page")
 		public void user_clicks_on_sign_in_page() {
@@ -36,6 +38,10 @@ public class SignIn_Step {
 		@Then("user navigated to home page")
 		public void user_navigated_to_home_page() throws InterruptedException {
 			Thread.sleep(2000);
+			 String title= eu.TitleGet();
+				System.out.println("User is on Sign In Page"+title);
+				eu.EqualAssert(title,"NumpyNinja") ;
+		
 			si.alertmessage();
 			  // si.signOut();
 			   }

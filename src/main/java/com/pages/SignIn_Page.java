@@ -12,7 +12,7 @@ public class SignIn_Page extends Base_Page {
 	}
 	
 	
-	@FindBy(partialLinkText ="Sign in")  WebElement sign;
+	@FindBy(xpath="//a[text()='Sign in']")  WebElement sign;
 	@FindBy(xpath = "//input[@name='username']") WebElement usrnme;
 	@FindBy(xpath="//input[@name='password']") WebElement lstnme;
 	@FindBy(xpath="//input[@type='submit']") WebElement lgn;

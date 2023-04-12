@@ -46,7 +46,7 @@ public class LinkedList_Step
 	@Then("user is directed to introduction page of linked list")
 	public void user_is_directed_to_introduction_page_of_linked_list() 
 	{
-	    
+		
 	}
 
 	@Given("user is on the creating  list after logged in")
@@ -63,9 +63,8 @@ public class LinkedList_Step
 	@Given("user is in the linked list page after logged In")
 	public void user_is_in_the_linked_list_page_after_logged_in()
 	{
-	   
+		
 	}
-
 	@When("user clicks on the creating a linked list button")
 	public void user_clicks_on_the_creating_a_linked_list_button() throws InterruptedException {
 		
@@ -77,8 +76,10 @@ public class LinkedList_Step
 
 	@Then("user should be directed to creating a linked list page")
 	public void user_should_be_directed_to_creating_a_linked_list_page() {
-	    
+
+		
 	}
+	
 	
 	@When("user clicks on the insert button")
 	public void user_clicks_on_the_insert_button()

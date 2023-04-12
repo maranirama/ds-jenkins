@@ -41,6 +41,7 @@ public class DataStructure_Step {
 		 String title= eu.TitleGet();
 			System.out.println("User is on Data Structures-Introduction Page"+title);
 			eu.EqualAssert(title,"Data Structures-Introduction") ;
+			
 	}
    
 	//Time complexity link
@@ -81,11 +82,13 @@ public class DataStructure_Step {
 	@When("user clicks on Run button")
 	public void user_clicks_on_run_button() {
 		dsp.Run(); 
+		
 	}
 
 	@Then("user can see the Output of Python code")
 	public void user_can_see_the_output_of_python_code() {
 		dsp.outputofpythoncd();
+		logger.info("Entered code is Valid");
 	    }
 	
 	//@Negative
@@ -103,7 +106,8 @@ public class DataStructure_Step {
 
 	@Then("user is capturing Alert message")
 	public void user_is_capturing_alert_message() {
-		eu.HandleAlert();    
+		eu.HandleAlert();   
+		logger.warn("Throws Alert Window");
 	}
 	
 	@Then("user navigates back to previous page")
@@ -125,7 +129,7 @@ public class DataStructure_Step {
 		 String title= eu.TitleGet();
 			System.out.println("User is on Practice Questions Page"+title);
 			eu.EqualAssert(title,"Practice Questions");
-			//logger.info("Expected Title");
+			logger.info("Expected Title");
 	}
 
 	@Then("user navigates back to HomePage")
