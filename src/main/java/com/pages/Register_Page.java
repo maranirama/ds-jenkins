@@ -29,7 +29,7 @@ public class Register_Page extends Base_Page {
 	@FindBy(xpath="//div[@class='alert alert-primary']")
 	WebElement alrtmsg;
 	
-	 @FindBy(xpath="//a[@href='/logout']")
+	 @FindBy(linkText="Sign out")
 	 WebElement sgnot;
 	
 	
