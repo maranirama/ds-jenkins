@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="84.742" tests="29" skipped="0" failures="2" errors="0">
-<testcase classname="Register page" name="user try to click GetStart button without signingIn" time="12.904">
+<testsuite name="Cucumber" time="241.025" tests="117" skipped="0" failures="7" errors="0">
+<testcase classname="register Page" name="user try to click GetStart button without signingIn" time="11.455">
 <system-out><![CDATA[
 Given DsAlgo Portal link....................................................passed
 When user clicks the get start button.......................................passed
@@ -11,46 +11,91 @@ Given user clicks Array get start button without signingIn..................pass
 Then displays array error message...........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Register page" name="Registeration for new user with invalid data - Example #1.1" time="4.394">
+<testcase classname="register Page" name="Register data - Example #1.1" time="5.727">
 <system-out><![CDATA[
 Given DsAlgo Portal link....................................................passed
 When user clicks the get start button.......................................passed
 Then user navigated to signup page..........................................passed
-Given User clicks on register link for invalid login........................passed
-When user enters the invalid "srs110@yopmail.com" "numpyninja1" and "numpyninja1".passed
-And User clicks on register button for invalid login........................passed
-Then Error message is displayed.............................................passed
+Given user is on home page..................................................passed
+When user clicks on Register link...........................................passed
+And user fills field from given "Sheet1" and rownumber 0....................passed
+And user clicks on Register button..........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Register page" name="Registeration for new user with invalid data - Example #1.2" time="4.682">
+<testcase classname="register Page" name="Register data - Example #1.2" time="5.089">
 <system-out><![CDATA[
 Given DsAlgo Portal link....................................................passed
 When user clicks the get start button.......................................passed
 Then user navigated to signup page..........................................passed
-Given User clicks on register link for invalid login........................passed
-When user enters the invalid "srs103@yopmail.com" "numpyninja1" and "numpyninja1".passed
-And User clicks on register button for invalid login........................passed
-Then Error message is displayed.............................................passed
+Given user is on home page..................................................passed
+When user clicks on Register link...........................................passed
+And user fills field from given "Sheet1" and rownumber 1....................passed
+And user clicks on Register button..........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Register page" name="Registeration for new user with invalid data - Example #1.3" time="4.204">
+<testcase classname="register Page" name="Register data - Example #1.3" time="5.034">
 <system-out><![CDATA[
 Given DsAlgo Portal link....................................................passed
 When user clicks the get start button.......................................passed
 Then user navigated to signup page..........................................passed
-Given User clicks on register link for invalid login........................passed
-When user enters the invalid "srs104@yopmail.com" "numpyninja1" and "numpyninja1".passed
-And User clicks on register button for invalid login........................passed
-Then Error message is displayed.............................................passed
+Given user is on home page..................................................passed
+When user clicks on Register link...........................................passed
+And user fills field from given "Sheet1" and rownumber 2....................passed
+And user clicks on Register button..........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Register page" name="Register for new user - Example #1.1" time="6.48">
-<failure type="org.junit.ComparisonFailure" message="expected:&lt;[Registration]&gt; but was:&lt;[NumpyNinja]&gt;">
-<![CDATA[org.junit.ComparisonFailure: expected:<[Registration]> but was:<[NumpyNinja]>
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at stepDefinition.Register_Step.user_navigated_to_numpy_ninja_home_page(Register_Step.java:77)
-	at ✽.user navigated to NumpyNinja Home page(file:///C:/Users/saisn/MyNewWorkSpace/DsAlgo_Final/src/test/resources/FeatureFiles/1_Lnch_Reg.feature:51)
+<testcase classname="register Page" name="Register data - Example #1.4" time="4.942">
+<system-out><![CDATA[
+Given DsAlgo Portal link....................................................passed
+When user clicks the get start button.......................................passed
+Then user navigated to signup page..........................................passed
+Given user is on home page..................................................passed
+When user clicks on Register link...........................................passed
+And user fills field from given "Sheet1" and rownumber 3....................passed
+And user clicks on Register button..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="register Page" name="Register for new user - Example #1.1" time="14.139">
+<failure type="org.openqa.selenium.NoSuchElementException" message="no such element: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Sign out&quot;}
+  (Session info: chrome=112.0.5615.86)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, findElement {using=link text, value=Sign out}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f5081a74723eadf51efa2ed55a7846">
+<![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Sign out"}
+  (Session info: chrome=112.0.5615.86)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, findElement {using=link text, value=Sign out}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f5081a74723eadf51efa2ed55a7846
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy44.click(Unknown Source)
+	at com.pages.Register_Page.signout(Register_Page.java:63)
+	at stepDefinition.Register_Step.user_will_signout_from_register_page(Register_Step.java:104)
+	at ✽.user will signout from Register page(file:///C:/Rama/new%20SRS%20work%20space/DsAlgo_Final/src/test/resources/FeatureFiles/1_registernewuser.feature:54)
 ]]>
 </failure>
 <system-out><![CDATA[
@@ -58,12 +103,13 @@ Given DsAlgo Portal link....................................................pass
 When user clicks the get start button.......................................passed
 Then user navigated to signup page..........................................passed
 Given user clicks on Register link..........................................passed
-When user enters the valid "srs37@yopmail.com" "numpyninja1" and "numpyninja1".passed
+When user enters the valid "srs397@yopmail.com" "numpyninja1" and "numpyninja1".passed
 And user clicks on Register button..........................................passed
-Then user navigated to NumpyNinja Home page.................................failed
+Then user navigated to NumpyNinja Home page.................................passed
+And user will signout from Register page....................................failed
 ]]></system-out>
 </testcase>
-<testcase classname="SignIn Page" name="user is redirected to sign in page - Example #1.1" time="5.413">
+<testcase classname="SignIn Page" name="user is redirected to sign in page - Example #1.1" time="4.808">
 <system-out><![CDATA[
 Given user clicks on signIn page............................................passed
 And user enters valid "Numpysdet84" and "sdet84batch".......................passed
@@ -71,21 +117,21 @@ When user clicks on login button............................................pass
 Then user navigated to home page............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="DataStructure module" name="User navigates to DataStructure module" time="2.532">
+<testcase classname="DataStructure module" name="User navigates to DataStructure module" time="2.338">
 <system-out><![CDATA[
 Given User is on  data structure module.....................................passed
 When User clicks data structure get start button............................passed
 Then User launches data structure page......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="DataStructure module" name="user is trying to access TimeComplexity" time="0.345">
+<testcase classname="DataStructure module" name="user is trying to access TimeComplexity" time="0.232">
 <system-out><![CDATA[
 Given user is on datasturcture introduction page............................passed
 When user clicks on TimeComplexity..........................................passed
 Then user launches on TimeComplexity page...................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="DataStructure module" name="user is trying to click TryHere button" time="2.062">
+<testcase classname="DataStructure module" name="user is trying to click TryHere button" time="0.798">
 <system-out><![CDATA[
 Given user clicks on TryHere button.........................................passed
 And user navigated to Tryeditor page to write a Python code.................passed
@@ -94,7 +140,7 @@ And user clicks on Run button...............................................pass
 Then user can see the Output of Python code.................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="DataStructure module" name="user is trying to click on TryEditor for Invalid data" time="2.827">
+<testcase classname="DataStructure module" name="user is trying to click on TryEditor for Invalid data" time="2.462">
 <system-out><![CDATA[
 Given user navigates back to click TryHere button...........................passed
 And user clicks on TryHere button...........................................passed
@@ -105,28 +151,286 @@ Then user is capturing Alert message........................................pass
 And user navigates back to previous page....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="DataStructure module" name="user is trying to click Practice Questions" time="6.623">
+<testcase classname="DataStructure module" name="user is trying to click Practice Questions" time="6.317">
 <system-out><![CDATA[
 Given user clicks on Practice Questions.....................................passed
 When user navigates to practice Questions...................................passed
 Then user navigates back to HomePage........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Stack module" name="User navigates to Stack module" time="0.624">
+<testcase classname="Array Module" name="user navigates to Array Module" time="0.302">
+<system-out><![CDATA[
+Given user is on Array Module...............................................passed
+When user clicks Array getStarted button....................................passed
+Then user launches Array Page...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user navigates to Arrays in Python Page" time="0.388">
+<system-out><![CDATA[
+Given user enters into Arrays in Python.....................................passed
+When user clicks on Arrays in Python link...................................passed
+Then user lands on Arrays in Python Page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user is trying to click TryHere button" time="0.381">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user is trying to click on TryEditor for Invalid data" time="2.497">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user navigates to Arrays Using List" time="0.258">
+<system-out><![CDATA[
+Given user enters into Arrays Using List....................................passed
+When user clicks on Arrays Using List.......................................passed
+Then user lands on Arrays Using List........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user is trying to click TryHere button" time="0.413">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user is trying to click on TryEditor for Invalid data" time="2.449">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user navigates to Basic Operations in Lists" time="0.236">
+<system-out><![CDATA[
+Given user enters into Basic Operations in Lists............................passed
+When user clicks on Basic Operations in Lists...............................passed
+Then user lands on Basic Operations in Lists................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user is trying to click TryHere button" time="0.433">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user is trying to click on TryEditor for Invalid data" time="2.437">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user navigates to Applications of Array" time="0.195">
+<system-out><![CDATA[
+Given user enters into Applications of Array................................passed
+When user clicks on Applications of Array...................................passed
+Then user lands on Applications of Array....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user is trying to click TryHere button" time="0.386">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Array Module" name="user is trying to click on TryEditor for Invalid data" time="2.437">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated introduction page" time="0.679">
+<system-out><![CDATA[
+Given user is in LinkeList page after logged In.............................passed
+When user clicks on introduction link.......................................passed
+Then user is directed to introduction page of linked list...................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated to try editor page" time="0.264">
+<system-out><![CDATA[
+Given user is on the creating  list after logged in.........................passed
+When user clicks on TryHere button..........................................passed
+Then user navigated to Tryeditor page to write a Python code................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user run the code in try editor with valid input for intro page" time="0.169">
+<system-out><![CDATA[
+Given user navigated to Tryeditor page to write a Python code...............passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user is trying to click on TryEditor for Invalid data" time="2.465">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated to creating a linked list page" time="2.45">
+<system-out><![CDATA[
+Given user is in the linked list page after logged In.......................passed
+When user clicks on the creating a linked list button.......................passed
+Then user should be directed to creating a linked list page.................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated to try editor page" time="0.264">
+<system-out><![CDATA[
+Given user is on the creating  list after logged in.........................passed
+When user clicks on TryHere button..........................................passed
+Then user navigated to Tryeditor page to write a Python code................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user run the code in try editor with valid input for intro page" time="0.169">
+<system-out><![CDATA[
+Given user navigated to Tryeditor page to write a Python code...............passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated to Types of linked list page" time="0.42">
+<system-out><![CDATA[
+Given user is in the linked list page after logged In.......................passed
+When user clicks on the Types of linked list button.........................passed
+Then user should be directed to creating a linked list page.................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated to try editor page" time="0.231">
+<system-out><![CDATA[
+Given user is on the creating  list after logged in.........................passed
+When user clicks on TryHere button..........................................passed
+Then user navigated to Tryeditor page to write a Python code................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user run the code in try editor with valid input for intro page" time="0.164">
+<system-out><![CDATA[
+Given user navigated to Tryeditor page to write a Python code...............passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated to Types of linked list page" time="0.377">
+<system-out><![CDATA[
+Given user is in the linked list page after logged In.......................passed
+When user clicks on the Impliment linked button.............................passed
+Then user should be directed to creating a linked list page.................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated to try editor page" time="0.286">
+<system-out><![CDATA[
+Given user is on the creating  list after logged in.........................passed
+When user clicks on TryHere button..........................................passed
+Then user navigated to Tryeditor page to write a Python code................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user run the code in try editor with valid input for intro page" time="0.169">
+<system-out><![CDATA[
+Given user navigated to Tryeditor page to write a Python code...............passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated to Types of linked list page" time="0.359">
+<system-out><![CDATA[
+Given user is in the linked list page after logged In.......................passed
+When user clicks on the Traversal button....................................passed
+Then user should be directed to creating a linked list page.................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated to try editor page" time="0.303">
+<system-out><![CDATA[
+Given user is on the creating  list after logged in.........................passed
+When user clicks on TryHere button..........................................passed
+Then user navigated to Tryeditor page to write a Python code................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user run the code in try editor with valid input for intro page" time="0.196">
+<system-out><![CDATA[
+Given user navigated to Tryeditor page to write a Python code...............passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated to Types of linked list page" time="0.395">
+<system-out><![CDATA[
+Given user is in the linked list page after logged In.......................passed
+When user clicks on the insert button.......................................passed
+Then user should be directed to creating a linked list page.................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user navigated to try editor page" time="0.432">
+<system-out><![CDATA[
+Given user is on the creating  list after logged in.........................passed
+When user clicks on TryHere button..........................................passed
+Then user navigated to Tryeditor page to write a Python code................passed
+]]></system-out>
+</testcase>
+<testcase classname="LinkedList" name="user run the code in try editor with valid input for intro page" time="0.177">
+<system-out><![CDATA[
+Given user navigated to Tryeditor page to write a Python code...............passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Stack module" name="User navigates to Stack module" time="0.378">
 <system-out><![CDATA[
 Given User is on stack module...............................................passed
 When User clicks on stack module's get start button.........................passed
 Then User launches on stack page............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Stack module" name="User navigates to operations in stack" time="0.477">
+<testcase classname="Stack module" name="User navigates to operations in stack" time="0.27">
 <system-out><![CDATA[
 Given User is on operations in stack........................................passed
 When User clicks on operations in stack button..............................passed
 Then User launches on operations in stack page..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Stack module" name="User Clicks TryHere" time="0.584">
+<testcase classname="Stack module" name="User Clicks TryHere" time="0.387">
 <system-out><![CDATA[
 Given user clicks on TryHere button.........................................passed
 And user navigated to Tryeditor page to write a Python code.................passed
@@ -135,7 +439,7 @@ And user clicks on Run button...............................................pass
 Then user can see the Output of Python code.................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Stack module" name="user is trying to click on TryEditor for Invalid data" time="2.606">
+<testcase classname="Stack module" name="user is trying to click on TryEditor for Invalid data" time="2.426">
 <system-out><![CDATA[
 Given user navigates back to click TryHere button...........................passed
 And user clicks on TryHere button...........................................passed
@@ -146,14 +450,14 @@ Then user is capturing Alert message........................................pass
 And user navigates back to previous page....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Stack module" name="User clicks on Implementation" time="0.336">
+<testcase classname="Stack module" name="User clicks on Implementation" time="0.177">
 <system-out><![CDATA[
 Given User is on Implementations on stack...................................passed
 When User clicks on Implementations in stack button.........................passed
 Then User launches on Implementations in stack page.........................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Stack module" name="User Clicks TryHere" time="0.552">
+<testcase classname="Stack module" name="User Clicks TryHere" time="0.393">
 <system-out><![CDATA[
 Given user clicks on TryHere button.........................................passed
 And user navigated to Tryeditor page to write a Python code.................passed
@@ -162,7 +466,7 @@ And user clicks on Run button...............................................pass
 Then user can see the Output of Python code.................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Stack module" name="user is trying to click on TryEditor for Invalid data" time="2.606">
+<testcase classname="Stack module" name="user is trying to click on TryEditor for Invalid data" time="2.427">
 <system-out><![CDATA[
 Given user navigates back to click TryHere button...........................passed
 And user clicks on TryHere button...........................................passed
@@ -173,27 +477,14 @@ Then user is capturing Alert message........................................pass
 And user navigates back to previous page....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Stack module" name="User clicks on Applications" time="0.295">
-<failure type="java.lang.AssertionError" message="expected [Application] but found [Applications]">
-<![CDATA[java.lang.AssertionError: expected [Application] but found [Applications]
-	at org.testng.Assert.fail(Assert.java:99)
-	at org.testng.Assert.failNotEquals(Assert.java:1037)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
-	at org.testng.Assert.assertEquals(Assert.java:122)
-	at org.testng.Assert.assertEquals(Assert.java:629)
-	at org.testng.Assert.assertEquals(Assert.java:639)
-	at com.qa.util.ElementUtil.EqualAssert(ElementUtil.java:19)
-	at stepDefinition.Stack_Step.user_launches_on_applications_in_stack_page(Stack_Step.java:93)
-	at ✽.User launches on Applications in stack page(file:///C:/Users/saisn/MyNewWorkSpace/DsAlgo_Final/src/test/resources/FeatureFiles/6_Stack.feature:79)
-]]>
-</failure>
+<testcase classname="Stack module" name="User clicks on Applications" time="0.182">
 <system-out><![CDATA[
 Given User is on Applications on stack......................................passed
 When User clicks on Applications in stack button............................passed
-Then User launches on Applications in stack page............................failed
+Then User launches on Applications in stack page............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Stack module" name="User Clicks TryHere" time="0.577">
+<testcase classname="Stack module" name="User Clicks TryHere" time="0.417">
 <system-out><![CDATA[
 Given user clicks on TryHere button.........................................passed
 And user navigated to Tryeditor page to write a Python code.................passed
@@ -202,7 +493,7 @@ And user clicks on Run button...............................................pass
 Then user can see the Output of Python code.................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Stack module" name="user is trying to click on TryEditor for Invalid data" time="2.57">
+<testcase classname="Stack module" name="user is trying to click on TryEditor for Invalid data" time="2.451">
 <system-out><![CDATA[
 Given user navigates back to click TryHere button...........................passed
 And user clicks on TryHere button...........................................passed
@@ -213,21 +504,634 @@ Then user is capturing Alert message........................................pass
 And user navigates back to previous page....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Stack module" name="user is trying to click Practice Questions" time="6.455">
+<testcase classname="Stack module" name="user is trying to click Practice Questions" time="6.358">
 <system-out><![CDATA[
 Given user clicks on Practice Questions.....................................passed
 When user navigates to practice Questions...................................passed
 Then user navigates back to HomePage........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Graph Module" name="User navigates to Graph module" time="0.635">
+<testcase classname="Queue Module" name="user navigates to Queue Module" time="0.328">
+<system-out><![CDATA[
+Given user is on Queue Module...............................................passed
+When user clicks  getstarted button of Queue Module.........................passed
+Then user launchs Queue page................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user navigates to Implementation of Queue in Python" time="0.256">
+<system-out><![CDATA[
+Given user is on Implementation of Queue in Python Page.....................passed
+When user clicks on Implementation of Queue in Python link..................passed
+Then user launches on Implementation of Queue in Python page................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user is trying to click TryHere button" time="0.375">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user is trying to click on TryEditor for Invalid data" time="2.424">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user navigates to Implementation using collections" time="0.169">
+<system-out><![CDATA[
+Given user is on Implementation using collections Page......................passed
+When user clicks on Implementation using collections link...................passed
+Then user launches on Implementation using collections page.................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user is trying to click TryHere button" time="0.423">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user is trying to click on TryEditor for Invalid data" time="2.412">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user navigates to Implementation using array" time="0.206">
+<system-out><![CDATA[
+Given user is on Implementation using array Page............................passed
+When user clicks on Implementation using array link.........................passed
+Then user launches on Implementation using array page.......................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user is trying to click TryHere button" time="0.392">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user is trying to click on TryEditor for Invalid data" time="2.448">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user navigates to Queue Operations" time="0.18">
+<system-out><![CDATA[
+Given user is on  Page Queue Operations.....................................passed
+When user clicks onlink Queue Operations....................................passed
+Then user launches on  page Queue Operations................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user is trying to click TryHere button" time="0.411">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user is trying to click on TryEditor for Invalid data" time="2.432">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Queue Module" name="user is trying to click Practice Questions" time="6.349">
+<system-out><![CDATA[
+Given user clicks on Practice Questions.....................................passed
+When user navigates to practice Questions...................................passed
+Then user navigates back to HomePage........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Tree Module" time="0.341">
+<system-out><![CDATA[
+Given user is on Tree Module................................................passed
+When user clicks  getstarted button of Tree Module..........................passed
+Then user launchs Tree page.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Overview of Trees" time="0.259">
+<system-out><![CDATA[
+Given user is on Overview of Trees..........................................passed
+When user clicks on Overview of Trees.......................................passed
+Then user launches on Overview of Trees.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.389">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.461">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Terminologies" time="0.264">
+<system-out><![CDATA[
+Given user is on Terminologies..............................................passed
+When user clicks on Terminologies link......................................passed
+Then user launches on Terminologies page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.422">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.41">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Types of Trees" time="0.242">
+<system-out><![CDATA[
+Given user is on Types of Trees.............................................passed
+When user clicks on Types of Trees link.....................................passed
+Then user launches on Types of Trees page...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.385">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.471">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Tree Traversals" time="0.307">
+<system-out><![CDATA[
+Given user is on Tree Traversals............................................passed
+When user clicks on Tree Traversals link....................................passed
+Then user launches on Tree Traversals page..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.419">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.434">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Traversals-Illustration" time="0.297">
+<system-out><![CDATA[
+Given user is on Traversals-Illustration....................................passed
+When user clicks on Traversals-Illustration link............................passed
+Then user launches on Traversals-Illustration page..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.381">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.461">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Binary Trees" time="0.331">
+<system-out><![CDATA[
+Given user is on Binary Trees...............................................passed
+When user clicks on Binary Trees link.......................................passed
+Then user launches on Binary Trees page.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.41">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.443">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Types of Binary Trees" time="0.363">
+<system-out><![CDATA[
+Given user is on Types of Binary Trees......................................passed
+When user clicks on Types of Binary Trees link..............................passed
+Then user launches on Types of Binary Trees page............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.403">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.491">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Implementation in Python" time="0.323">
+<system-out><![CDATA[
+Given user is on Implementation in Python...................................passed
+When user clicks on Implementation in Python link...........................passed
+Then user launches on Implementation in Python page.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.441">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.449">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Binary Tree Traversals" time="0.284">
+<system-out><![CDATA[
+Given user is on Binary Tree Traversals.....................................passed
+When user clicks on Binary Tree Traversals..................................passed
+Then user launches on Binary Tree Traversals................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.424">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="11.551">
+<failure type="org.openqa.selenium.ElementNotInteractableException" message="element not interactable
+  (Session info: chrome=112.0.5615.86)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, sendKeysToElement {id=411659c2-cf87-479a-8561-2475404756fe, value=[Ljava.lang.CharSequence;@7aac6d13}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (a5f5081a74723eadf51efa2ed55a7846)] -&gt; xpath: //form/div/div/div/textarea]
+Session ID: a5f5081a74723eadf51efa2ed55a7846">
+<![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=112.0.5615.86)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, sendKeysToElement {id=411659c2-cf87-479a-8561-2475404756fe, value=[Ljava.lang.CharSequence;@7aac6d13}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (a5f5081a74723eadf51efa2ed55a7846)] -> xpath: //form/div/div/div/textarea]
+Session ID: a5f5081a74723eadf51efa2ed55a7846
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:113)
+	at jdk.internal.reflect.GeneratedMethodAccessor89.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+	at jdk.proxy2/jdk.proxy2.$Proxy44.sendKeys(Unknown Source)
+	at com.pages.DataStructure_Page.InvalidTextBox(DataStructure_Page.java:62)
+	at stepDefinition.DataStructure_Step.user_is_entering_invalid_python_code(DataStructure_Step.java:103)
+	at ✽.user is entering Invalid Python code(file:///C:/Rama/new%20SRS%20work%20space/DsAlgo_Final/src/test/resources/FeatureFiles/8_Tree.feature:266)
+]]>
+</failure>
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................failed
+And user clicks on Run button...............................................skipped
+Then user is capturing Alert message........................................skipped
+And user navigates back to previous page....................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Implimentation of Binary Trees" time="10.21">
+<failure type="org.openqa.selenium.NoSuchElementException" message="no such element: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Implementation of Binary Trees&quot;}
+  (Session info: chrome=112.0.5615.86)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, findElement {using=link text, value=Implementation of Binary Trees}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f5081a74723eadf51efa2ed55a7846">
+<![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Implementation of Binary Trees"}
+  (Session info: chrome=112.0.5615.86)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, findElement {using=link text, value=Implementation of Binary Trees}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f5081a74723eadf51efa2ed55a7846
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy44.click(Unknown Source)
+	at com.pages.Tree_Page.ImplementationofBinaryTrees(Tree_Page.java:148)
+	at stepDefinition.Tree_Step.user_clicks_on_implimentation_of_binary_trees(Tree_Step.java:218)
+	at ✽.user clicks on Implimentation of Binary Trees(file:///C:/Rama/new%20SRS%20work%20space/DsAlgo_Final/src/test/resources/FeatureFiles/8_Tree.feature:277)
+]]>
+</failure>
+<system-out><![CDATA[
+Given user is on Implimentation of Binary Trees.............................passed
+When user clicks on Implimentation of Binary Trees..........................failed
+Then user launches on Implimentation of Binary Trees........................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="10.237">
+<failure type="org.openqa.selenium.NoSuchElementException" message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@href='/tryEditor']&quot;}
+  (Session info: chrome=112.0.5615.86)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, findElement {using=xpath, value=//a[@href='/tryEditor']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f5081a74723eadf51efa2ed55a7846">
+<![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='/tryEditor']"}
+  (Session info: chrome=112.0.5615.86)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, findElement {using=xpath, value=//a[@href='/tryEditor']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f5081a74723eadf51efa2ed55a7846
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy44.click(Unknown Source)
+	at com.pages.DataStructure_Page.DSTryHere(DataStructure_Page.java:54)
+	at stepDefinition.DataStructure_Step.user_clicks_on_try_here_button(DataStructure_Step.java:67)
+	at ✽.user clicks on TryHere button(file:///C:/Rama/new%20SRS%20work%20space/DsAlgo_Final/src/test/resources/FeatureFiles/8_Tree.feature:282)
+]]>
+</failure>
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................failed
+And user navigated to Tryeditor page to write a Python code.................skipped
+When user is writing Python code............................................skipped
+And user clicks on Run button...............................................skipped
+Then user can see the Output of Python code.................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.478">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Applications of Binary trees" time="0.286">
+<system-out><![CDATA[
+Given user is on Applications of Binary trees...............................passed
+When user clicks on Applications of Binary trees link.......................passed
+Then user launches on Applications of Binary trees page.....................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.413">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.445">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Binary Search Trees" time="0.412">
+<system-out><![CDATA[
+Given user is on Binary Search Trees........................................passed
+When user clicks on Binary Search Trees link................................passed
+Then user launches on Binary Search Trees page..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.369">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.419">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user navigates to Implementation Of BST" time="0.24">
+<system-out><![CDATA[
+Given user is on Implementation Of BST......................................passed
+When user clicks on Implementation Of BST link..............................passed
+Then user launches on Implementation Of BST page............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click TryHere button" time="0.395">
+<system-out><![CDATA[
+Given user clicks on TryHere button.........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is writing Python code............................................passed
+And user clicks on Run button...............................................passed
+Then user can see the Output of Python code.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click on TryEditor for Invalid data" time="2.459">
+<system-out><![CDATA[
+Given user navigates back to click TryHere button...........................passed
+And user clicks on TryHere button...........................................passed
+And user navigated to Tryeditor page to write a Python code.................passed
+When user is entering Invalid Python code...................................passed
+And user clicks on Run button...............................................passed
+Then user is capturing Alert message........................................passed
+And user navigates back to previous page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tree Module" name="user is trying to click Practice Questions" time="6.517">
+<system-out><![CDATA[
+Given user clicks on Practice Questions.....................................passed
+When user navigates to practice Questions...................................passed
+Then user navigates back to HomePage........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Graph Module" name="User navigates to Graph module" time="0.462">
 <system-out><![CDATA[
 Given User is on Graph module...............................................passed
 When User clicks on Graph modules Get Start button..........................passed
 Then User launches on Graph page............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Graph Module" name="User Clicks TryHere" time="0.579">
+<testcase classname="Graph Module" name="User Clicks TryHere" time="0.384">
 <system-out><![CDATA[
 Given user clicks on TryHere button.........................................passed
 And user navigated to Tryeditor page to write a Python code.................passed
@@ -236,34 +1140,160 @@ And user clicks on Run button...............................................pass
 Then user can see the Output of Python code.................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Graph Module" name="user is trying to click on TryEditor for Invalid data" time="2.607">
+<testcase classname="Graph Module" name="user is trying to click on TryEditor for Invalid data" time="11.556">
+<failure type="org.openqa.selenium.ElementNotInteractableException" message="element not interactable
+  (Session info: chrome=112.0.5615.86)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, sendKeysToElement {id=f779e70b-ae41-42fa-82d5-8b0b5cc01a8f, value=[Ljava.lang.CharSequence;@6ac9742e}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (a5f5081a74723eadf51efa2ed55a7846)] -&gt; xpath: //form/div/div/div/textarea]
+Session ID: a5f5081a74723eadf51efa2ed55a7846">
+<![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=112.0.5615.86)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, sendKeysToElement {id=f779e70b-ae41-42fa-82d5-8b0b5cc01a8f, value=[Ljava.lang.CharSequence;@6ac9742e}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (a5f5081a74723eadf51efa2ed55a7846)] -> xpath: //form/div/div/div/textarea]
+Session ID: a5f5081a74723eadf51efa2ed55a7846
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:113)
+	at jdk.internal.reflect.GeneratedMethodAccessor89.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+	at jdk.proxy2/jdk.proxy2.$Proxy44.sendKeys(Unknown Source)
+	at com.pages.DataStructure_Page.InvalidTextBox(DataStructure_Page.java:62)
+	at stepDefinition.DataStructure_Step.user_is_entering_invalid_python_code(DataStructure_Step.java:103)
+	at ✽.user is entering Invalid Python code(file:///C:/Rama/new%20SRS%20work%20space/DsAlgo_Final/src/test/resources/FeatureFiles/9_Graph.feature:41)
+]]>
+</failure>
 <system-out><![CDATA[
 Given user navigates back to click TryHere button...........................passed
 And user clicks on TryHere button...........................................passed
 And user navigated to Tryeditor page to write a Python code.................passed
-When user is entering Invalid Python code...................................passed
-And user clicks on Run button...............................................passed
-Then user is capturing Alert message........................................passed
-And user navigates back to previous page....................................passed
+When user is entering Invalid Python code...................................failed
+And user clicks on Run button...............................................skipped
+Then user is capturing Alert message........................................skipped
+And user navigates back to previous page....................................skipped
 ]]></system-out>
 </testcase>
-<testcase classname="Graph Module" name="User clicks on Graphs representation" time="0.439">
+<testcase classname="Graph Module" name="User clicks on Graphs representation" time="10.191">
+<failure type="org.openqa.selenium.NoSuchElementException" message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@href='/graph/graph-representations/']&quot;}
+  (Session info: chrome=112.0.5615.86)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, findElement {using=xpath, value=//a[@href='/graph/graph-representations/']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f5081a74723eadf51efa2ed55a7846">
+<![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='/graph/graph-representations/']"}
+  (Session info: chrome=112.0.5615.86)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, findElement {using=xpath, value=//a[@href='/graph/graph-representations/']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f5081a74723eadf51efa2ed55a7846
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy44.click(Unknown Source)
+	at com.pages.Graph_Page.representations(Graph_Page.java:27)
+	at stepDefinition.Graph_Step.user_clicks_on_representation_in_graph_button(Graph_Step.java:42)
+	at ✽.User clicks on representation in graph button(file:///C:/Rama/new%20SRS%20work%20space/DsAlgo_Final/src/test/resources/FeatureFiles/9_Graph.feature:49)
+]]>
+</failure>
 <system-out><![CDATA[
 Given User is on representation on graph....................................passed
-When User clicks on representation in graph button..........................passed
-Then User launches on representation in graph page..........................passed
+When User clicks on representation in graph button..........................failed
+Then User launches on representation in graph page..........................skipped
 ]]></system-out>
 </testcase>
-<testcase classname="Graph Module" name="User Clicks TryHere" time="0.485">
+<testcase classname="Graph Module" name="User Clicks TryHere" time="10.221">
+<failure type="org.openqa.selenium.NoSuchElementException" message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@href='/tryEditor']&quot;}
+  (Session info: chrome=112.0.5615.86)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, findElement {using=xpath, value=//a[@href='/tryEditor']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f5081a74723eadf51efa2ed55a7846">
+<![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='/tryEditor']"}
+  (Session info: chrome=112.0.5615.86)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f5081a74723eadf51efa2ed55a7846, findElement {using=xpath, value=//a[@href='/tryEditor']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.86, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ramas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58192/devtoo..., se:cdpVersion: 112.0.5615.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f5081a74723eadf51efa2ed55a7846
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy44.click(Unknown Source)
+	at com.pages.DataStructure_Page.DSTryHere(DataStructure_Page.java:54)
+	at stepDefinition.DataStructure_Step.user_clicks_on_try_here_button(DataStructure_Step.java:67)
+	at ✽.user clicks on TryHere button(file:///C:/Rama/new%20SRS%20work%20space/DsAlgo_Final/src/test/resources/FeatureFiles/9_Graph.feature:54)
+]]>
+</failure>
 <system-out><![CDATA[
-Given user clicks on TryHere button.........................................passed
-And user navigated to Tryeditor page to write a Python code.................passed
-When user is writing Python code............................................passed
-And user clicks on Run button...............................................passed
-Then user can see the Output of Python code.................................passed
+Given user clicks on TryHere button.........................................failed
+And user navigated to Tryeditor page to write a Python code.................skipped
+When user is writing Python code............................................skipped
+And user clicks on Run button...............................................skipped
+Then user can see the Output of Python code.................................skipped
 ]]></system-out>
 </testcase>
-<testcase classname="Graph Module" name="user is trying to click on TryEditor for Invalid data" time="2.593">
+<testcase classname="Graph Module" name="user is trying to click on TryEditor for Invalid data" time="2.459">
 <system-out><![CDATA[
 Given user navigates back to click TryHere button...........................passed
 And user clicks on TryHere button...........................................passed
@@ -274,7 +1304,7 @@ Then user is capturing Alert message........................................pass
 And user navigates back to previous page....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Graph Module" name="user is trying to click Practice Questions" time="6.474">
+<testcase classname="Graph Module" name="user is trying to click Practice Questions" time="6.395">
 <system-out><![CDATA[
 Given user clicks on Practice Questions.....................................passed
 When user navigates to practice Questions...................................passed

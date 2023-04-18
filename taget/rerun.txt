@@ -1,2 +1,3 @@
-file:src/test/resources/FeatureFiles/1_Lnch_Reg.feature:55
-file:src/test/resources/FeatureFiles/6_Stack.feature:76
+file:src/test/resources/FeatureFiles/8_Tree.feature:261:275:281
+file:src/test/resources/FeatureFiles/9_Graph.feature:37:47:53
+file:src/test/resources/FeatureFiles/1_registernewuser.feature:57

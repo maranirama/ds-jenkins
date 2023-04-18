@@ -7,19 +7,14 @@ import org.openqa.selenium.WebDriver;
 import com.qa.factory.Launch_Browser;
 import io.cucumber.java.After;
 import io.cucumber.java.Scenario;
+
+
+
 public class ApplicationHooks {
 	
 WebDriver driver =Launch_Browser.launch_browser();
 	
-	/*
-	 * @After public void tearDown(Scenario scenario) { if(scenario.isFailed()) {
-	 * //take screenschot String screenshotName =
-	 * scenario.getName().replaceAll("","_"); byte[] sourcepath =
-	 * ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
-	 * scenario.attach(sourcepath,"image/png", screenshotName);
-	 * 
-	 * }
-	 */
+	
     	
     		
     		Logger logger = LogManager.getLogger();

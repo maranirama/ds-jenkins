@@ -68,3 +68,891 @@
 ['INFO ]2023-04-12 13:25:35,093(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
 ['WARN ]2023-04-12 13:25:37,429(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
 ['INFO ]2023-04-12 13:25:41,748(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['ERROR]2023-04-15 20:25:30,826(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['ERROR]2023-04-15 20:25:35,656(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['ERROR]2023-04-15 20:25:40,390(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['ERROR]2023-04-15 20:25:45,139(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 20:26:08,807(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:26:11,118(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:26:15,308(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 20:26:18,302(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:26:20,631(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:26:21,155(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:26:23,445(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:26:23,961(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:26:26,262(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:26:26,775(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 20:27:19,275(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 20:27:19,959(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 20:27:20,595(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 20:27:21,276(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 20:27:22,062(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:27:24,352(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:27:24,910(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:27:27,195(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:27:27,654(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:27:29,960(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:27:34,116(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 20:27:36,979(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:27:39,256(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:27:39,701(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:27:41,972(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:27:42,430(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:27:44,718(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:27:45,164(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:27:47,455(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:27:51,607(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 20:27:54,524(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:27:56,821(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:27:57,338(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:27:59,630(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:00,155(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:02,439(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:03,085(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:05,404(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:05,950(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:08,255(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:08,837(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:11,138(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:11,786(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:14,071(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:14,641(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:16,940(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:17,506(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:19,805(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:20,358(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:22,674(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:23,209(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:25,502(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:26,171(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:28,469(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:28,984(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:31,286(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:35,484(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 20:28:38,184(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:40,469(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:41,043(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 20:28:43,353(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 20:28:47,533(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['ERROR]2023-04-15 22:48:07,302(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['ERROR]2023-04-15 22:48:12,358(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['ERROR]2023-04-15 22:48:17,401(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['ERROR]2023-04-15 22:48:22,548(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 22:48:47,204(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:48:49,654(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:48:53,922(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 22:48:57,317(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:48:59,883(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:00,688(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:03,133(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:03,854(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:06,312(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:07,070(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:09,498(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:10,779(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:13,205(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:16,274(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:49:17,226(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:49:18,109(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:49:19,024(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:49:20,079(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:49:21,249(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:23,666(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:24,477(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:26,894(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:27,570(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:30,031(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:34,248(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 22:49:37,538(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:39,957(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:40,626(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:43,055(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:43,720(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:46,153(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:46,940(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:49,355(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:49:53,604(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 22:49:56,824(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:49:59,218(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:50:00,026(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:50:03,260(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:50:04,082(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:50:06,539(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:50:07,388(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:50:09,846(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:50:10,638(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:50:13,021(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:50:13,818(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:50:16,235(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['WARN ]2023-04-15 22:51:03,816(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:51:04,658(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:51:07,081(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:51:07,874(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:51:10,315(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:51:11,135(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:51:13,519(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:51:14,498(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:51:16,907(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:51:17,703(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:51:20,108(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:51:24,338(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 22:51:27,345(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:51:29,790(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:51:30,521(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['WARN ]2023-04-15 22:51:32,954(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:51:37,210(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 22:55:35,798(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 22:55:39,610(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 22:55:41,793(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 22:55:44,554(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 22:55:46,718(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 22:55:49,456(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 22:55:51,607(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 22:55:54,352(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 22:55:56,532(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:10,503(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:10,503(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 22:56:15,652(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:18,052(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:18,352(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:19,202(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:19,203(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:56:21,666(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:56:21,707(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:25,922(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 22:56:28,065(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:28,389(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:28,834(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:29,247(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:29,247(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:56:31,692(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:56:31,729(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:32,026(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:32,437(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:32,438(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:56:34,849(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:56:34,893(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:35,156(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:35,597(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:35,598(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:56:38,029(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:56:38,073(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:38,326(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:38,756(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:38,757(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:56:41,175(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:56:41,209(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:41,954(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:42,194(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:42,368(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:42,369(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:56:44,765(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:56:44,814(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:47,265(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:47,562(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:47,745(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:47,746(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:48,222(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:48,499(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:48,735(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:48,736(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:49,173(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:49,488(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:49,663(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:49,664(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:50,075(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:50,385(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:50,578(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:50,578(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:50,957(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:51,419(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:51,584(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:51,585(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:51,958(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:52,226(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:52,610(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:52,611(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:56:55,018(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:56:55,058(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:55,268(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:55,742(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:55,743(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:56:58,137(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:56:58,184(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:58,401(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:56:58,844(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:56:58,845(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:10,241(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:10,241(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 22:57:22,512(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:22,512(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 22:57:23,089(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:23,351(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:23,813(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:57:23,814(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:57:26,250(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:57:26,303(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:26,519(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:26,937(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:57:26,937(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:57:29,357(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:57:29,429(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:29,712(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:40,092(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:40,092(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['WARN ]2023-04-15 22:57:42,747(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:57:42,808(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:43,029(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:43,472(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:57:43,473(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:57:45,890(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:57:45,937(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:50,165(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 22:57:52,307(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:52,703(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:57:52,996(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:03,340(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:03,341(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['WARN ]2023-04-15 22:58:05,936(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:05,986(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:06,345(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:06,782(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:06,782(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:09,194(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:09,242(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:09,531(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:09,991(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:09,992(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:12,399(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:12,442(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:12,782(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:13,190(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:13,191(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:15,629(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:15,672(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:16,045(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:16,459(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:16,460(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:18,867(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:18,919(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:19,357(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:19,815(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:19,815(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:22,297(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:22,359(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:22,813(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:23,225(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:23,226(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:25,615(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:25,662(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:25,932(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:26,374(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:26,375(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:28,856(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:28,921(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:29,376(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:29,889(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:29,890(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:32,350(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:32,398(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:32,684(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:33,164(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:33,165(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:35,607(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:35,656(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:35,922(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:36,386(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:36,386(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:38,783(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:38,845(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:39,493(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:39,903(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:39,904(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:42,327(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:42,384(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:42,657(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:43,093(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:43,094(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:45,518(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:45,570(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:49,818(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 22:58:51,943(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:52,434(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:52,838(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:52,839(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:55,219(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:55,258(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:55,553(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:58:55,953(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 22:58:55,954(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 22:58:58,355(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 22:58:58,412(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 22:59:02,617(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 22:59:04,767(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:04:32,721(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:04:36,534(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:04:38,718(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:04:41,592(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:04:43,756(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:04:46,525(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:04:48,693(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:04:51,419(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:04:53,576(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:07,428(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:07,429(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 23:05:12,605(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:14,939(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:15,223(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:16,043(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:16,045(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:05:18,498(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:05:18,554(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:22,830(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:05:24,979(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:25,326(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:25,773(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:26,226(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:26,227(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:05:28,738(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:05:28,776(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:29,089(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:29,566(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:29,567(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:05:31,967(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:05:32,007(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:32,298(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:32,768(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:32,769(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:05:35,214(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:05:35,271(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:35,523(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:35,938(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:35,939(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:05:38,395(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:05:38,448(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:39,148(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:39,436(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:39,606(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:39,607(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:05:42,032(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:05:42,082(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:44,552(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:44,864(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:45,037(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:45,038(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:45,573(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:45,859(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:46,035(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:46,036(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:46,430(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:46,739(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:46,920(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:46,921(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:47,302(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:47,636(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:47,841(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:47,842(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:48,274(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:48,748(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:48,958(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:48,958(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:49,341(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:49,658(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:50,104(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:50,105(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:05:52,538(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:05:52,576(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:52,788(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:53,226(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:53,226(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:05:55,668(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:05:55,735(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:56,074(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:05:56,613(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:05:56,613(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:05:59,044(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:05:59,086(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:03,287(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:06:05,465(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:05,832(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:06,123(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:06,532(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:06:06,533(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:06:08,955(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:06:08,999(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:09,212(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:09,658(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:06:09,659(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:06:14,155(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:06:14,201(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:14,503(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:14,950(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:06:14,951(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:26,303(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:26,303(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 23:06:36,571(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:36,571(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 23:06:46,822(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:46,822(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['WARN ]2023-04-15 23:06:49,498(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:06:49,548(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:53,773(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:06:55,899(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:56,391(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:06:56,652(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:07,069(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:07,070(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['WARN ]2023-04-15 23:07:09,737(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:09,799(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:10,194(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:10,678(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:10,679(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:13,087(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:13,139(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:13,417(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:13,885(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:13,885(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:16,312(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:16,355(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:16,712(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:17,125(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:17,125(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:19,547(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:19,588(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:19,926(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:20,349(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:20,350(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:22,803(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:22,846(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:23,178(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:23,574(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:23,575(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:25,978(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:26,034(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:26,438(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:26,861(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:26,862(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:29,281(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:29,321(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:29,587(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:30,039(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:30,040(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:32,449(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:32,496(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:32,831(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:33,286(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:33,287(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:35,734(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:35,778(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:36,034(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:36,504(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:36,505(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:38,944(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:38,985(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:39,285(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:39,729(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:39,730(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:42,174(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:42,216(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:42,638(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:43,010(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:43,011(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:45,428(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:45,471(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:45,751(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:46,193(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:46,194(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:48,615(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:48,656(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:52,848(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:07:54,975(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:55,353(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:55,747(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:55,748(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:07:58,167(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:07:58,217(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:58,581(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:07:59,005(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:07:59,006(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:08:01,442(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:08:01,480(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:08:05,673(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:08:07,797(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:19:43,418(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:19:47,156(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:19:49,333(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:19:52,161(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:19:54,348(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:19:57,222(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:19:59,411(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:20:02,269(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:20:04,455(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:18,426(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:18,426(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 23:20:23,539(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:25,861(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:26,115(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:26,914(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:20:26,914(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:20:29,349(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:20:29,416(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:33,623(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:20:35,752(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:36,097(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:36,519(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:36,930(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:20:36,932(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:20:39,432(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:20:39,485(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:39,777(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:40,235(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:20:40,236(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:20:42,664(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:20:42,715(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:43,044(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:43,477(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:20:43,478(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:20:45,971(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:20:46,010(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:46,217(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:46,628(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:20:46,629(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:20:49,852(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:20:49,896(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:50,636(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:50,898(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:51,069(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:20:51,070(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:20:53,471(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:20:53,524(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:55,962(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:56,272(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:56,440(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:20:56,441(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:56,880(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:57,133(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:57,299(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:20:57,300(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:57,775(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:58,089(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:58,257(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:20:58,258(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:58,681(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:59,001(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:59,184(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:20:59,185(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:20:59,623(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:00,092(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:00,258(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:00,259(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:00,651(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:00,975(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:01,393(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:01,394(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:03,791(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:03,826(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:04,049(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:04,482(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:04,483(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:06,885(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:06,934(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:07,133(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:07,554(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:07,554(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:09,997(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:10,038(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:14,227(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:21:16,362(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:16,713(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:16,990(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:17,373(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:17,374(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:19,779(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:19,814(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:20,003(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:20,415(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:20,416(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:22,825(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:22,874(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:23,095(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:23,502(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:23,502(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:25,911(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:25,955(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:26,155(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:26,549(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:26,550(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:28,937(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:28,980(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:33,175(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:21:35,295(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:35,653(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:36,019(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:36,418(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:36,419(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:38,794(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:38,823(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:39,061(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:39,450(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:39,451(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:41,841(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:41,877(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:42,133(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:43,646(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:43,646(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:46,057(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:46,103(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:46,421(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:46,803(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:46,803(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:49,178(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:49,225(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:49,558(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:49,976(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:49,977(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:52,396(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:52,460(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:52,835(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:53,242(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:53,243(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:55,654(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:55,718(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:56,125(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:56,537(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:56,538(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:21:58,983(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:21:59,026(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:59,281(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:21:59,701(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:21:59,702(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:22:02,146(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:22:02,210(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:02,627(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:03,033(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:22:03,034(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:22:05,427(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:22:05,472(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:05,747(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:06,203(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:22:06,204(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:22:08,609(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:22:08,660(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:09,013(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:09,426(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:22:09,427(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:22:11,804(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:22:11,844(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:12,277(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:12,666(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:22:12,667(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:22:15,042(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:22:15,094(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:15,373(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:15,809(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:22:15,809(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:22:18,202(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:22:18,260(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:22,454(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:22:24,584(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:24,977(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:25,360(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:22:25,361(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:22:27,756(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:22:27,794(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:28,086(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:28,468(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:22:28,468(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:22:30,871(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:22:30,910(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:22:35,109(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:22:37,254(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:32:43,659(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:32:47,361(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:32:49,532(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:32:52,484(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:32:54,652(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:32:57,543(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:32:59,715(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['ERROR]2023-04-15 23:33:02,492(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.Register_Step1)-Invalid Register Details
+['INFO ]2023-04-15 23:33:04,681(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:18,630(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:18,630(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 23:33:23,672(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:26,029(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:26,276(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:27,087(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:33:27,088(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:33:29,523(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:33:29,564(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:33,770(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:33:35,896(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:36,213(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:36,611(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:37,003(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:33:37,004(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:33:39,468(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:33:39,514(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:39,797(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:40,233(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:33:40,234(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:33:42,643(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:33:42,689(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:42,949(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:43,392(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:33:43,393(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:33:45,796(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:33:45,837(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:46,045(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:46,441(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:33:46,442(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:33:48,854(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:33:48,888(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:49,582(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:49,855(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:50,033(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:33:50,034(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:33:52,433(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:33:52,508(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:54,975(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:55,254(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:55,433(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:33:55,434(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:55,862(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:56,108(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:56,281(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:33:56,282(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:56,669(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:56,971(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:57,148(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:33:57,149(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:57,515(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:57,833(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:58,039(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:33:58,039(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:58,440(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:58,886(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:59,070(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:33:59,071(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:59,459(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:33:59,740(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:00,135(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:00,136(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:02,528(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:02,567(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:02,774(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:03,176(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:03,177(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:05,574(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:05,611(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:05,807(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:06,233(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:06,234(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:08,652(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:08,692(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:12,881(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:34:15,063(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:15,407(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:15,672(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:16,056(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:16,056(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:18,453(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:18,490(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:18,672(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:19,101(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:19,102(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:21,483(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:21,521(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:21,739(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:22,138(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:22,139(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:24,560(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:24,595(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:24,785(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:25,205(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:25,205(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:27,609(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:27,645(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:31,874(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:34:34,007(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:34,361(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:34,628(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:35,030(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:35,031(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:37,453(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:37,499(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:37,781(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:38,213(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:38,214(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:40,592(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:40,629(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:40,882(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:41,277(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:41,278(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:43,697(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:43,753(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:44,080(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:44,507(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:44,508(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:46,899(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:46,949(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:47,263(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:47,650(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:47,651(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:50,039(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:50,118(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:50,467(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:50,884(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:50,885(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:53,290(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:53,335(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:53,707(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:54,116(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:54,117(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:56,547(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:56,618(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:56,955(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:34:57,404(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:34:57,404(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:34:59,816(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:34:59,860(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:00,158(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:00,589(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:35:00,589(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:11,949(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:11,949(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 23:35:22,208(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:22,208(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 23:35:32,409(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:32,409(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['WARN ]2023-04-15 23:35:35,068(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:35:35,119(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:35,417(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:35,837(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:35:35,838(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:35:38,247(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:35:38,289(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:38,717(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:39,092(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:35:39,093(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:35:41,482(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:35:41,521(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:41,771(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:42,173(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:35:42,174(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['WARN ]2023-04-15 23:35:44,608(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:35:44,658(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:48,855(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:35:51,189(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:51,664(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:35:52,062(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Entered code is Valid
+['INFO ]2023-04-15 23:35:52,063(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:36:03,416(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:36:03,416(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 23:36:13,661(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:36:13,661(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['INFO ]2023-04-15 23:36:23,888(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:36:23,888(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside scenario.isFailed()
+['WARN ]2023-04-15 23:36:26,469(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Throws Alert Window
+['INFO ]2023-04-15 23:36:26,520(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside
+['INFO ]2023-04-15 23:36:30,724(yyyy-MM-ddHH:mm:ss.SSS][main]stepDefinition.DataStructure_Step1)-Expected Title
+['INFO ]2023-04-15 23:36:32,928(yyyy-MM-ddHH:mm:ss.SSS][main]appHooks.ApplicationHooks1)-<takeScreenshotOnFailure>: inside

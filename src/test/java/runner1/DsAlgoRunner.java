@@ -13,9 +13,10 @@ import io.cucumber.testng.CucumberOptions;
 		"rerun:taget/rerun.txt",
 		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
 monochrome=true,
-dryRun=false,
+dryRun=!true,
 features={"src/test/resources/FeatureFiles"},
-glue={"stepDefinition"})
+glue={"stepDefinition","appHooks"})
+
 
 
 public class DsAlgoRunner extends AbstractTestNGCucumberTests

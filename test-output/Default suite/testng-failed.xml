@@ -6,7 +6,7 @@
       <class name="runner1.DsAlgoRunner">
         <methods>
           <include name="setUpClass"/>
-          <include name="runScenario" invocation-numbers="4 18"/>
+          <include name="runScenario" invocation-numbers="5 96 97 98 112 113 114"/>
           <include name="tearDownClass"/>
         </methods>
       </class> <!-- runner1.DsAlgoRunner -->
