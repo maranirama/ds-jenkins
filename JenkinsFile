@@ -2,10 +2,10 @@ pipeline{
 agent any
 stages 
 {
-stage('Build') 
+stage('Build code') 
 {
 steps{
-echo "Building the Project.........."
+sh "mvn clean install"
 }
 }
 stage('Test') 
